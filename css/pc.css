@@ -1,0 +1,160 @@
+@media only screen and (min-width: 1900px) and (max-width: 2157px) {
+    /*for PC*/
+        .box {
+            margin-left: 15%;
+            margin-right: 15%;
+            margin-bottom: 0%;
+        }
+
+        .imgdanceandblack {
+            margin-left: 15%;
+            margin-right: 15%;
+            margin-bottom: 0%;
+        }
+
+        .header {
+            font-size: 320%;
+            margin-bottom: 5%;
+        }
+        
+        b {
+            font-size: 300%;
+        }
+        
+        .text1 {
+            font-size: 180%;
+        }
+        
+        .yt {
+            height: 400px;
+            width: 55%;
+        }
+        
+        
+        .memberL {
+           display: none;
+        }
+        
+        .member {
+            width: 40%;
+            float: right;
+        }
+        
+        .bodyleft {
+            font-size: 180%;
+            padding-top: 3%;
+            max-width: 55%;
+        }
+        
+        .body2 {
+            font-size: 180%;
+            padding-top: 5%;
+            float: left;
+        }
+        
+        
+        .irene {
+            padding-top: 5%;
+            width: 49%;
+            float: right;
+            
+        }
+        
+        .butterfly {
+            padding-top: 5%;
+            width: 49%;
+            float: left;
+        }
+        
+        .part2 {
+            font-size: 180%;
+            padding-top: 5%;
+            float: left;
+        }
+        
+        .part3 {
+            font-size: 180%;
+            padding-top: 5%;
+            float: left;
+            padding-bottom: 5%;
+        }
+
+        .part4 {
+            font-size: 180%;
+            background-color: aliceblue;
+            text-align: center;
+            margin-left: 15%;
+            margin-right: 15%;
+        }
+
+
+        .dancetext {
+            font-size: 150%;
+            padding-top: 2%;
+            max-width: 100%;
+            float: left;
+        }
+
+        .stayc p {
+            text-align: center;
+            font-style: italic;
+            font-size: 130%;
+            text-indent: 0;
+            padding-top: 2%;
+          }
+        
+
+        .black {
+            padding-top: 3.3%;
+            width: 21.5%;
+            float: right;
+            padding-right: 2%;
+        }
+
+        .black p {
+            text-align: center;
+            font-style: italic;
+            font-size: 130%;
+            text-indent: 0;
+            padding-top: 3.2%;
+          }
+
+          .staycimg {
+            width: 40%;
+            float: right;
+        }
+
+          .contact {
+            font-size: 100%;
+            float: left;
+            margin-top: 5%;            
+        }
+
+        .buttoncontact {   
+            float: right;
+            display: none;
+        }
+
+        .buttoncontact:hover {
+            display: block;
+        }
+
+        .contactall {
+            position: fixed;
+            bottom: 0;
+            margin: 0.7%;
+            
+        }
+
+        .contactall :hover + .buttoncontact {
+            display: block;
+        }
+        
+
+    
+    }
+    
+     
+          
+        
+ 

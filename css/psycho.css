@@ -1,0 +1,79 @@
+        .head {
+            background-color: black;
+            height: auto;
+        }    
+
+       g {
+          font-family: 'Prompt', sans-serif;
+          }
+
+        b {
+            font-family: 'Special Elite', cursive;
+            font-weight: normal;
+        }
+
+        .yougotme {
+            text-align: center;
+        }
+
+        c {
+            font-style: 'Prompt' ;
+        }
+
+        d {
+            font-weight: bold;
+        }
+
+        e {
+            font-weight: bold;
+            font-style: 'Prompt';
+        }
+
+        f {
+            font-weight: bold;
+        }
+
+        h {
+            color: red;
+        }
+
+        .box {
+            margin: 5%;
+            padding: 3%;
+            margin-bottom: 0%;
+            }
+
+        .body {
+            overflow-x: hidden;
+        }
+
+        img {
+            width: 100%;
+        }
+
+        .member {
+            width: 100%;
+        }
+
+        .music {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+        }
+
+        .butterfly {
+            width: 100%;
+        }
+
+        svg {
+            opacity: 70%;
+        }
+
+    
+          
+      
+
+
+              
+             
+
